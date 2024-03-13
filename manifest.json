@@ -1,0 +1,21 @@
+{
+  "name": "Euromilhões",
+  "short_name": "Euromilhões",
+  "description": "Aplicação para gerar números aleatórios para o Euromilhões",
+  "icons": [
+    {
+      "src": "euro.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "euro.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
